@@ -1,0 +1,16 @@
+﻿Build started 10.04.2012 16:39:17.
+     1>Project "c:\Users\vaio\documents\visual studio 2010\Projects\Codeforces - 4A (Арбуз)\Codeforces - 4A (Арбуз).vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Codeforces - 4A (Арбуз).unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Codeforces - 4A (Арбуз).pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt "Codeforces - 4A (Арбуз).cpp" /clr:nostdlib 
+         Codeforces - 4A (Арбуз).cpp
+     1>Codeforces - 4A (Арбуз).cpp(22): error C2065: 'out' : undeclared identifier
+     1>Done Building Project "c:\Users\vaio\documents\visual studio 2010\Projects\Codeforces - 4A (Арбуз)\Codeforces - 4A (Арбуз).vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.46
