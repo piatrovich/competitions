@@ -1,2 +1,6 @@
 # Ignore win files
 desktop.ini
+
+# Ignore IDE files
+.idea
+target/
