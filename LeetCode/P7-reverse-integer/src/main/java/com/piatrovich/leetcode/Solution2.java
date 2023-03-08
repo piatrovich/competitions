@@ -1,8 +1,5 @@
 package com.piatrovich.leetcode;
 
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution2 {
     public int reverse(int x) {
         if (x / 10 == 0) return x;
