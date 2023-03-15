@@ -34,7 +34,7 @@ public class SolutionTest {
     @MethodSource("provideTestCase")
     void testEnhancedSwitch(String s, int n) {
         // when
-        int result = new SolutionSwitch().romanToInt(s);
+        int result = new SolutionEnhancedSwitch().romanToInt(s);
 
         // then
         assertEquals(n, result);
