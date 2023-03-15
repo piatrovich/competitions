@@ -1,6 +1,6 @@
 package com.piatrovich.leetcode;
 
-class Solution {
+class SolutionConditional {
     public int romanToInt(String s) {
         int n = 0;
         while (s.length() > 0) {
