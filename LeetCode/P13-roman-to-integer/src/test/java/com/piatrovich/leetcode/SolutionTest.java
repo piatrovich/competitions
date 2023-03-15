@@ -30,6 +30,16 @@ public class SolutionTest {
         assertEquals(n, result);
     }
 
+    @ParameterizedTest
+    @MethodSource("provideTestCase")
+    void testEnhancedSwitch(String s, int n) {
+        // when
+        int result = new SolutionSwitch().romanToInt(s);
+
+        // then
+        assertEquals(n, result);
+    }
+
     static Stream<Arguments> provideTestCase() {
         return Stream.of(
                 Arguments.of("I", 1),
